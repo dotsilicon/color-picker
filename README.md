@@ -65,7 +65,7 @@ MIT License – Free for personal and commercial use.
 
 Grab the latest version of **Color Picker**:
 
-🔗 [Download Color_Picker](https://github.com/dotsilicon/color-picker/releases/download/1.0/Color_Picker.zip)  
+🔗 [Download Color Picker](https://github.com/dotsilicon/color-picker/releases/download/1.0/Color_Picker.zip)  
 📁 Includes: `ColorPicker.exe`, `README.md`, and `Terms_of_Use.txt`
 
 > 💡 No installation needed — just unzip and run!
