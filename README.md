@@ -55,8 +55,7 @@ Report issues or suggest features:
 
 ## 🧑‍💻 Author
 
-Developed by [Rashidul Hasan]  
-[GitHub Profile](https://github.com/fairytalelegend)
+Developed by [Rashidul Hasan](https://github.com/fairytalelegend)
 
 ---
 
