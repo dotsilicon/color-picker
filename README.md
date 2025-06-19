@@ -1,6 +1,4 @@
-# 🎨 Color Picker
-
-**Catch the perfect dot**
+# 🎨 Color Picker - Catch the perfect dot
 
 Color Picker is a lightweight desktop utility for effortlessly grabbing the exact color from any pixel on your screen. Whether you're a designer, developer, or just color-curious, this app makes it simple to catch and copy colors instantly.
 
@@ -62,3 +60,12 @@ Developed by [Rashidul Hasan](https://www.facebook.com/forbidden.empire)
 ## 🔖 License
 
 MIT License – Free for personal and commercial use.
+
+## 📥 Download
+
+Grab the latest version of **Color Picker**:
+
+🔗 [Download Color_Picker](https://github.com/dotsilicon/color-picker/releases/download/1.0/Color_Picker.zip)  
+📁 Includes: `ColorPicker.exe`, `README.md`, and `Terms_of_Use.txt`
+
+> 💡 No installation needed — just unzip and run!
