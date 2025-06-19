@@ -1,6 +1,6 @@
 # 🎨 Color Picker
 
-**Tagline:** _Catch the perfect dot._
+**Catch the perfect dot**
 
 Color Picker is a lightweight desktop utility for effortlessly grabbing the exact color from any pixel on your screen. Whether you're a designer, developer, or just color-curious, this app makes it simple to catch and copy colors instantly.
 
